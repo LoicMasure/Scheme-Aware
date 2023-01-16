@@ -1,6 +1,7 @@
 # Scheme-Aware-Architectures
 This Git repo contains some source code used in the paper  [Don’t Learn What You Already Know Scheme-Aware Modeling for Profiling Side-Channel Analysis against Masking](https://tches.iacr.org/index.php/TCHES/article/view/9946), by  Loïc Masure (UCLouvain), Valence Cristiani (CEA, Leti), Maxime Lecomte(CEA, Leti), and François-Xavier Standaert (UCLouvain).
 
+## Organization of the source code
 The repository contains the source codes of the Scheme-Aware models, along with some simulation scripts.
 
 The scripts work on **Python 3.8** with a **NVIDIA RTX A6000** of 48GB running on **Cuda 11.7**. The deep learning is implemented with **Torch 1.13.1**.
